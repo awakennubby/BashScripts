@@ -1,2 +1,2 @@
-Year, Month, Day, Completed_Tasks,Incomplete_Task
+Year, Month, Day, Completed_Tasks,Incomplete_Task,Task_Count,Complete_Count
 2022,01,18,[],[]
